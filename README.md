@@ -1,5 +1,5 @@
-#### AV Rank 53
-![input](img/1.png)
+
+
 
 #### Training Accuracy : 0.45717620458280556
 #### Testing Accuracy : 0.4587363396558221
